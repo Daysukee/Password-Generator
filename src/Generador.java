@@ -1,4 +1,4 @@
-public class Main {
+public class Generador {
     public static void main(String[] args) {
 
         System.out.println(generaContrasenia());
